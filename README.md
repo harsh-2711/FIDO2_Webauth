@@ -11,3 +11,14 @@
 - `cd FIDO2_Webauth`
 - `npm install`
 - `node app`
+
+### Frontend
+
+- HTML
+- CSS
+- Javascript
+
+### Backend
+
+- NodeJS
+- Express
