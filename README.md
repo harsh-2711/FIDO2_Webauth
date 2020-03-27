@@ -1,16 +1,13 @@
-# FIDO Alliance WebAuthn demo
-
-Slides: https://slides.com/fidoalliance/jan-2018-fido-seminar-webauthn-tutorial#/
+# FIDO Alliance WebAuthn 2FA
 
 ### Requirements
 
-- Firefox Nightly
+- Google Chrome or Firefox Nightly
 - Nodejs + NPM
-- Text editor
 
 ### Run
 
-- `git clone https://github.com/fido-alliance/webauthn-demo/`
-- `cd webauthn-demo`
+- `git clone https://github.com/harsh-2711/FIDO2_Webauth/`
+- `cd FIDO2_Webauth`
 - `npm install`
 - `node app`
